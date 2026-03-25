@@ -7,6 +7,23 @@ Currently working on designing clean and minimal UI screens for this project.
 
 Stay tuned 👀
 
+## 🎨 Design Inspiration
+
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1551632811-561732d1e306" width="30%" />
+  <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee" width="30%" />
+  <img src="https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1" width="30%" />
+</p>
+
+This project is inspired by modern outdoor and hiking experiences, focusing on:
+
+- Clean and minimal interface  
+- Strong visual storytelling  
+- Nature-driven color palette  
+- Simple and intuitive navigation  
+
+The goal is to create a calm, immersive, and user-friendly experience for outdoor lovers.
+
 ## 🧠 Problem
 Many people who love hiking struggle to find reliable trails, safety information, and easy trip planning tools in one place.
 
@@ -90,20 +107,5 @@ High-fidelity UI screens will include:
 🟡 In progress — UI design will be added soon
 
 ---
-## 🎨 Design Inspiration
 
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1551632811-561732d1e306" width="30%" />
-  <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee" width="30%" />
-  <img src="https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1" width="30%" />
-</p>
-
-This project is inspired by modern outdoor and hiking experiences, focusing on:
-
-- Clean and minimal interface  
-- Strong visual storytelling  
-- Nature-driven color palette  
-- Simple and intuitive navigation  
-
-The goal is to create a calm, immersive, and user-friendly experience for outdoor lovers.
 ⭐️ This is a conceptual project created to showcase my UI/UX design process.
