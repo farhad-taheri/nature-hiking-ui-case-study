@@ -1,4 +1,11 @@
 # 🌲 Nature Hiking App - UI/UX Case Study
+## 🎨 UI Preview
+
+Coming soon...
+
+Currently working on designing clean and minimal UI screens for this project.
+
+Stay tuned 👀
 
 ## 🧠 Problem
 Many people who love hiking struggle to find reliable trails, safety information, and easy trip planning tools in one place.
